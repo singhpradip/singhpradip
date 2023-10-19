@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/pradiptechie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pradiptechie" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pradiptechie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradiptechie" height="30" width="40" /></a>
-<a href="https://fb.com/me.pradipmahato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="me.pradipmahato" height="30" width="40" /></a>
+<a href="https://fb.com/info.pradipmahato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="me.pradipmahato" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/pradiptechie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pradiptechie" height="30" width="40" /></a>
 </p>
 
