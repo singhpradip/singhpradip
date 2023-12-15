@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pradip Mahato</h1>
 <h3 align="center">A passionate web developer from Nepal</h3>
-<image align ="right" width="400" src="/img.jpg">
+<image align ="right" width="400" src="/img.png">
 
 - 🌱 I’m currently learning **React JS, MongoDB**
 
