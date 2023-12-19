@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Angular Framework**
 
-- 👨‍💻 All of my projects are available at [http://pradipmahato.com.np/](http://pradipmahato.com.np/)
+- 👨‍💻 All of my projects will be available soon at [http://pradipmahato.com.np/](http://pradipmahato.com.np/)
 
 - 💬 Ask me about **Node JS, Express JS, PHP, MySQL, JavaScript, HTML, CSS, C, C++, Java**
 
