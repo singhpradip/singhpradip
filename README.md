@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from Nepal</h3>
 <image align ="right" width="400" src="/img.png">
 
-- 🌱 I’m currently learning **React JS, MongoDB**
+- 🌱 I’m currently learning **Angular Framework**
 
 - 👨‍💻 All of my projects are available at [http://pradipmahato.com.np/](http://pradipmahato.com.np/)
 
