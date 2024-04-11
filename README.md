@@ -2,11 +2,11 @@
 <h3 align="center">A passionate web developer from Nepal</h3>
 <image align ="right" width="400" src="/img.png">
 
-- 🌱 I’m currently learning **Angular Framework**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects will be available soon at [http://pradipmahato.com.np/](http://pradipmahato.com.np/)
 
-- 💬 Ask me about **Node JS, Express JS, PHP, MySQL, JavaScript, HTML, CSS, C, C++, Java**
+- 💬 Ask me about **Node JS, Express, Angular, PHP, MySQL, JavaScript, HTML, CSS, C, C++, Java**
 
 - 📫 How to reach me **kumarpradip3956@gmail.com**
 
