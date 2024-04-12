@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects will be available soon at [pradipmahato.com.np](pradipmahato.com.np)
+- 👨‍💻 All of my projects will be available soon at [pradipmahato.com.np](https://www.pradipmahato.com.np/)
 
 - 💬 Ask me about **Node JS, Express, Angular, PHP, MySQL, JavaScript, HTML, CSS, C, C++, Java**
 
