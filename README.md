@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects will be available soon at [pradipmahato.com.np](https://www.pradipmahato.com.np/)
 
-- 💬 Ask me about **Node JS, Express, Angular, PHP, MySQL, JavaScript, HTML, CSS, C, C++, Java**
+- 💬 Ask me about **JavaScript, Node JS, Express, React, MongoDB, Angular, PHP, MySQL, Sequelize, HTML, CSS, C, C++, Java**
 
 - 📫 How to reach me **kumarpradip3956@gmail.com**
 
