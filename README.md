@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Pradip Singh</h1>
-<h3 align="center">A passionate web developer from Nepal</h3>
+<h3 align="center">👋 Hi there! I'm passionate about JavaScript and currently pursuing a Bachelor of Computer Applications (BCA) at NCIT College. I'm enthusiastic about building a career in web development and love working on projects that challenge me to learn and grow. Let's connect and build something amazing together! 💻🚀</h3>
 <image align ="right" width="400" src="/img.png">
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects will be available soon at [pradipmahato.com.np](https://www.pradipmahato.com.np/)
+<!-- - 👨‍💻 All of my projects will be available soon at [pradipmahato.com.np](https://www.pradipmahato.com.np/) -->
 
-- 💬 Ask me about **JavaScript, Node JS, Express, React, MongoDB, Angular, PHP, MySQL, Sequelize, HTML, CSS, C, C++, Java**
+- 💬 Ask me about **JavaScript, Node JS, Express, React, HTML, CSS, PHP, MongoDB, MySQL, C, C++, Java**
 
 - 📫 How to reach me **kumarpradip3956@gmail.com**
 
-- ⚡ Fun fact:  **I think I'm Good Listener and Creative**
+<!-- - ⚡ Fun fact:  **I think I'm Good Listener and Creative** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
