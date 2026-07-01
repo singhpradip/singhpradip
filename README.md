@@ -1,6 +1,9 @@
 <h4> Last updated at Jun 2024 </h4>
 <h1 align="center">Hi 👋, I'm Pradip Singh</h1>
-<h3 align="center">I'm passionate about JavaScript and currently pursuing a Bachelor of Computer Applications (BCA) at NCIT College. I'm enthusiastic about building a career in web development and love working on projects that challenge me to learn and grow. Let's connect and build something amazing together! 💻🚀</h3>
+<h3 align="center">I'm Frontend-focused Full Stack Engineer with strong expertise in React and TypeScript at Varicon. Drives
+end-to-end development of complex workflows in an EOS-driven environment, building scalable UI archi-
+tectures, real-time systems, and high-impact solutions. Brings a disciplined, hands-on approach with a
+passion for exploring new technologies and solving problems with pragmatism and curiosity.</h3>
 <image align ="right" width="400" src="/img.png">
 
 - 🌱 I’m currently working on **Mero Kharcha**,a private repo using Mongodb, Node and Express for Server, React for Web app and React Native for mobile app following REST Framework : **https://www.merokharcha.com**
