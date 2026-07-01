@@ -1,3 +1,4 @@
+<h4> Last updated at Jun 2024 </h4>
 <h1 align="center">Hi 👋, I'm Pradip Singh</h1>
 <h3 align="center">I'm passionate about JavaScript and currently pursuing a Bachelor of Computer Applications (BCA) at NCIT College. I'm enthusiastic about building a career in web development and love working on projects that challenge me to learn and grow. Let's connect and build something amazing together! 💻🚀</h3>
 <image align ="right" width="400" src="/img.png">
